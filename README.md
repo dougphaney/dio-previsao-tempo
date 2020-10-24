@@ -1,6 +1,21 @@
-# DioPrevisaoTempo
+<p align="center">
+  <img src='src/img/prev-tempo.png'/>
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+# Criando projeto para consultar a previsão do tempo via API
+
+Aula ministrada por João Victor Ghignatti no curso da Digital Innovation One.
+
+Fonte:
+[Digital Innovation One(DIO)](https://digitalinnovation.one/)
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+## JvWeather
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
 
@@ -24,4 +39,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## 📃 License
+
+This project is under MIT license. Check file [LICENSE](LICENSE) for more details.
+
+---
+
+<h4 align="center">
+  Developed with ❤️ by <b>Douglas Rosa</b>
+</h4>
+
